@@ -1,0 +1,14 @@
+
+rum 13 cold alcoholic 140
+milk 8 hot non-alcoholic 60
+sprite 4 cold non-alcoholic 200
+tequila 20 cold alcoholic 94
+coffee 5 hot non-alcoholic 50
+coffee 5 hot non-alcoholic 50
+latte 6 hot non-alcoholic 42
+gin 15 cold alcoholic 24
+smoothie 12 cold non-alcoholic 300
+slushie 4 cold non-alcoholic 200
+mojito 13 cold alcoholic 70
+Shiraz 20 cold alcoholic 75
+hot_chocolate 12 hot non-alcoholic 300
